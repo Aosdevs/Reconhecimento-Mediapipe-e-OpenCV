@@ -1,0 +1,1 @@
+Reconhecimento Mediapipe e OpenCV
